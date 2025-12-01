@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "AI记账助手API",
   "main": "api/analyze.js",
+  "type": "module",
   "engines": {
     "node": "24.x"
   },
