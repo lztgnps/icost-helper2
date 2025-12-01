@@ -1,0 +1,13 @@
+{
+  "name": "ai-accounting",
+  "version": "1.0.0",
+  "description": "AI记账助手API",
+  "main": "api/analyze.js",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node api/analyze.js"
+  },
+  "dependencies": {}
+}
